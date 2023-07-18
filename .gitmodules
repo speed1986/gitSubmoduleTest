@@ -1,0 +1,3 @@
+[submodule "bluego"]
+	path = bluego
+	url = ssh://git@git.swf.daimler.com:7999/apricot/bluego.git
